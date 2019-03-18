@@ -1,0 +1,7 @@
+(1) google "virtualbox virtual machine files path" >>
+https://superuser.com/questions/256192/how-to-move-virtualbox-files >>
+файлы ВМ в ~/VirtualBox VMs, формат единицы ВМ - файл .vbox
+
+(2) google "how to find debian version" >>
+https://linuxize.com/post/how-to-check-your-debian-version/ >>
+lsb_release -a

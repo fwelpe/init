@@ -1,0 +1,2 @@
+(1) kill $!
+(2) kill ($pid), найдя pid через ps aux

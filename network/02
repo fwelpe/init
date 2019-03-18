@@ -1,0 +1,4 @@
+(a) 1. echo FF:FF:FF:FF:FF:FF
+2. ifconfig -L en0 | grep "inet " | cut -d " " -f 6 (IP broadcast)
+
+(b) arp -a

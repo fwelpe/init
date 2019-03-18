@@ -1,0 +1,3 @@
+google "change debian hostname permanently" >>
+https://www.vultr.com/docs/how-to-change-your-hostname-on-debian >>
+vi /etc/hostname
